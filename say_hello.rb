@@ -2,4 +2,4 @@
 def say_hello(name = "Hello Ruby Progamer!")
   puts "Hello #{name}!"
 end 
- say_hello("Gabriella")
+ say_hello
